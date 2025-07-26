@@ -1,0 +1,79 @@
+Absolutely, Isha! Here's a list of **features with prompts** you can use for your **Day 15 React Weather App project** 👇
+
+---
+
+## 🌦️ **Weather App – Features with Prompts**
+
+### 1. **City Search Input 🔍**
+
+**Feature**: A search bar to enter a city name.
+**Prompt**:
+
+> *“Create a controlled input field in React where the user can type a city name. On clicking the search button, fetch weather data for that city.”*
+
+---
+
+### 2. **Real-time Weather Data 🌡️**
+
+**Feature**: Displays live weather details (temperature, condition, humidity).
+**Prompt**:
+
+> *“Use `fetch()` or `axios` in `useEffect` to call the OpenWeatherMap API and display city weather details dynamically.”*
+
+---
+
+### 3. **Conditional Rendering Based on State ✅**
+
+**Feature**: Show loading, weather, or error states accordingly.
+**Prompt**:
+
+> *“Render different UI elements based on loading, success, or error state using conditional rendering in React.”*
+
+---
+
+### 4. **Weather Icon with Condition 🌤️**
+
+**Feature**: Display weather icon based on the current weather condition (like clouds, sun, rain).
+**Prompt**:
+
+> *“Use the `icon` code from the weather API response and show the correct image using conditional rendering.”*
+
+---
+
+### 5. **Responsive UI Design 💻📱**
+
+**Feature**: Looks great on desktop and mobile.
+**Prompt**:
+
+> *“Apply Flexbox and media queries in CSS to make the weather app fully responsive.”*
+
+---
+
+### 6. **Auto Location Weather (Optional) 📍**
+
+**Feature**: Auto-detect user's current location to show local weather.
+**Prompt**:
+
+> *“Use the browser’s Geolocation API to get current coordinates and fetch weather using latitude and longitude.”*
+
+---
+
+### 7. **Store Last Searched City (Optional Bonus) 🗂️**
+
+**Feature**: Save the last searched city in `localStorage`.
+**Prompt**:
+
+> *“Use `localStorage` and `useEffect` to remember and auto-load the last searched city when the app reloads.”*
+
+---
+
+### 8. **Dark/Light Theme Toggle (Optional Bonus) 🌗**
+
+**Feature**: Allow user to toggle between dark and light UI themes.
+**Prompt**:
+
+> *“Use a toggle button and apply conditional classNames to switch between themes using `useState`.”*
+
+---
+
+Let me know if you want me to generate the full project structure or starter code with placeholders for APIs and logic!
