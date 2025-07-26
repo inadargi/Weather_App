@@ -2,7 +2,7 @@
 
 # 🌤️ Weather App
 
-A simple and responsive **Weather Application** built with **React.js**, powered by the **Open-Meteo API**, and supported by a backend built using **TypeScript**. This project was built as the final submission for my **15-Day React Challenge**.
+A simple and responsive **Weather Application** built with **React.js**, powered by the **OpenWeatherMap API**, and supported by a backend built using **TypeScript**. This project was built as the final submission for my **15-Day React Challenge**.
 
 ---
 
