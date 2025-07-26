@@ -11,7 +11,7 @@ A simple and responsive **Weather Application** built with **React.js**, powered
 * 🌍 **Search by City** – Get real-time weather by typing the city name
 * 🌡️ **Current Weather Data** – Temperature, weather condition, wind speed, and more
 * 📱 **Responsive Design** – Works seamlessly across devices
-* ☁️ **API Integration** – Uses Open-Meteo API for accurate data
+* ☁️ **API Integration** – Uses OpenWeatherMap API for accurate data
 
 
 ---
